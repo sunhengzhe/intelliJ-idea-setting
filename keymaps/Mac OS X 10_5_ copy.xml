@@ -29,6 +29,10 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="OpenProjectWindows">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="shift #100007e" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="meta enter" />
